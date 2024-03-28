@@ -3,6 +3,7 @@
 - 🌱 Retornando ao mercado de desenvolvimento de software!
 - 🎓 Skills Update - rumo ao dev front-end 2024!
 
+<br>
 
 ## Tecnologias que trabalho
 
@@ -12,7 +13,7 @@
   <img align="center" alt="bruno-HTML" height="40" src="https://skillicons.dev/icons?i=react,redux,bootstrap,jquery,linux" />
 </div>
 
-
+<br><br>
 
 ## Onde estou
 
