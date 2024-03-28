@@ -1,7 +1,7 @@
 ## Olá, seja bem vindo 😊
 
 - 🌱 Retornando ao mercado de desenvolvimento de software!
-- 🎓 Skills Update - rumo ao dev front-end 2024!
+- 🎓 Rumo ao Update dev front-end 2024!
 
 <br>
 
