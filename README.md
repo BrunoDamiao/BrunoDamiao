@@ -8,7 +8,7 @@
 ## Tecnologias que trabalho
 
 <div style="display: inline_block">
-  <img align="center" alt="bruno-HTML" src="https://skillicons.dev/icons?i=js,html,css,nodejs,figma,git,github,linux,php,mysql,postgres,mongodb,react,redux,bootstrap,jquery&perline=8" />  
+  <img align="center" alt="bruno-HTML" src="https://skillicons.dev/icons?i=html,css,js,nodejs,figma,git,github,linux,php,mysql,postgres,mongodb,react,redux,bootstrap,jquery&perline=8" />  
 </div>
 
 <br><br>
