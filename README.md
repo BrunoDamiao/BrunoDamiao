@@ -1,4 +1,4 @@
-## Olá, seja bem vindo 😊
+# Olá, sou Bruno Damião, bem-vindo ao meu GitHub! 👋 😊
 
 Sou graduado em Tecnologia da Informação desde 2010, com ampla experiência como desenvolvedor de sistemas. Possuo habilidades em diversas tecnologias, incluindo HTML5, CSS3, JavaScript, TypeScript, PHP, Bootstrap, ReactJS, FIGMA, NodeJS, Express, bancos de dados SQL/NoSQL, Git/GitHub, Docker, Linux, entre outras.
 
