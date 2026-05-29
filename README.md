@@ -1,16 +1,16 @@
-# Olá, sou Bruno Damião, bem-vindo ao meu GitHub! 👋 😊
+# Olá, sou Bruno Damião, bem-vindo ao meu GitHub! 👋😊
 
 Desenvolvedor de Software que visa impactar a qualidade de vida das pessoas através da tecnologia.
 
 - 📚 Estou estudando: Arquiteto de Software!
-- 📫 Entre em contato: [![brunodamiao13@gmail.com](https://img.shields.io/badge/-brunodamiao13@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunodamiao13@gmail.com)]
+- 📫 Entre em contato: [brunodamiao13@gmail.com](https://img.shields.io/badge/-brunodamiao13@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunodamiao13@gmail.com)
 
 <br>
 
 ## Tecnologias que trabalho
 
 <div style="display: inline_block">
-  <img align="center" alt="bruno-HTML" src="https://skillicons.dev/icons?i=html,css,js,nodejs,figma,git,github,linux,php,mysql,postgres,mongodb,react,redux,bootstrap,jquery&perline=8" />  
+  <img align="center" alt="bruno-HTML" src="https://skillicons.dev/icons?i=html,css,js,typescript,react,redux,bootstrap,jquery,figma,nodejs,php,docker,redis,git,github,mysql,postgres,mongodb,linux&perline=9" />  
 </div>
 
 <br><br>
