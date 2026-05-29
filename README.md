@@ -1,17 +1,9 @@
 # Olá, sou Bruno Damião, bem-vindo ao meu GitHub! 👋 😊
 
-Sou graduado em Tecnologia da Informação desde 2010, com ampla experiência como desenvolvedor de sistemas. Possuo habilidades em diversas tecnologias, incluindo HTML5, CSS3, JavaScript, TypeScript, PHP, Bootstrap, ReactJS, FIGMA, NodeJS, Express, bancos de dados SQL/NoSQL, Git/GitHub, Docker, Linux, entre outras.
+Desenvolvedor de Software que visa impactar a qualidade de vida das pessoas através da tecnologia.
 
-Em 2018, pausei minha carreira de desenvolvedor para explorar novos horizontes, como áreas de desenvolvimento pessoal e empreendedorismo e muitos outros. Durante esse período, aprimorei minhas habilidades pessoais como liderança, trabalho em equipe, marketing e vendas. Além de atuar profissionalmente como mentor, autor e palestrante.
-
-Em 2023, decidi regressar à carreira de desenvolvedor e reintegrar o mercado de tecnologia. Desde então, venho me dedicando e me aprimorando como desenvolvedor fullstack, com ênfase nas tecnologias NodeJS, ReactJS e DevOps. Nesse papel, tenho tido a oportunidade de trabalhar em diversos projetos desafiadores e de aprimorar ainda mais minhas competências técnicas e interpessoais.
-
-Estou entusiasmado com a possibilidade de contribuir com minhas habilidades e experiências para novos projetos. Acredito que minha combinação de competências técnicas e experiência em desenvolvimento pessoal pode agregar valor significativo a qualquer equipe.
-
-Estou à disposição para uma conversa mais detalhada sobre como posso contribuir para o sucesso do seu projeto.
-
-- 🌱 Retornando ao mercado de desenvolvimento de software!
-- 🎓 Rumo ao Update dev front-end 2024!
+- 📚 Estou estudando: Arquiteto de Software!
+- 📫 Entre em contato: [![brunodamiao13@gmail.com](https://img.shields.io/badge/-brunodamiao13@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunodamiao13@gmail.com)]
 
 <br>
 
