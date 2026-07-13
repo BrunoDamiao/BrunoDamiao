@@ -1,6 +1,6 @@
-# Olá, sou Bruno Damião, bem-vindo ao meu GitHub! 👋😊
+# Olá, seja bem-vindo ao meu GitHub! 👋😊
 
-Desenvolvedor de Software que visa impactar a qualidade de vida das pessoas através da tecnologia.
+Sou o Bruno e crio softwares que melhoram a vida das pessoas.
 
 - 📚 Estou estudando: Arquiteto de Software!
 - 📫 Entre em contato: [brunodamiao13@gmail.com](https://img.shields.io/badge/-brunodamiao13@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunodamiao13@gmail.com)
